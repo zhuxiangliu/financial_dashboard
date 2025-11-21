@@ -3,7 +3,7 @@
 A comprehensive real-time financial dashboard showing commodities and currencies from multiple free data sources.
 
 ## 🚀 Live Demo
-[View Live Website](https://zhuxiangliu.github.io/finantial_dashboard)
+[View Live Website](https://zhuxiangliu.github.io/financial_dashboard)
 
 ## 📊 Features
 - **Crude Oil Prices**: WTI and Brent crude
@@ -49,4 +49,5 @@ This dashboard uses free APIs with potential delays. Data is for informational p
 MIT License - see LICENSE file for details.
 
 ---
+
 *Data updates automatically every 3 minutes. Manual refresh available.*
